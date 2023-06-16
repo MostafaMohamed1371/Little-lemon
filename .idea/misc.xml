@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable-v24/ic_email.xml" value="0.1675" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable-v24/ic_lock.xml" value="0.1675" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable-v24/ic_password.xml" value="0.1675" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable-v24/ic_username.xml" value="0.1675" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable-v24/ic_visibility.xml" value="0.1675" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable-v24/login_shape.xml" value="0.1675" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable-v24/password.xml" value="0.1675" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable-v24/press_button.xml" value="0.1675" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable-v24/shape.xml" value="0.1675" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable-v24/shape_botton.xml" value="0.1675" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable-v24/shape_box.xml" value="0.1675" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable/ic_category.xml" value="0.1735" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable/ic_food.xml" value="0.1" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable/littleLemon_background.xml" value="0.1735" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable/little_lemon_background.xml" value="0.1735" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable/shape_button.xml" value="0.1565" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable/shape_category.xml" value="0.159" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable/shape_image.xml" value="0.115" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable/tab_background.xml" value="0.1565" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable/tab_selected.xml" value="0.1565" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/drawable/tab_unselected.xml" value="0.1565" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/activity_forget_password.xml" value="0.144" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/activity_login.xml" value="0.22056159420289856" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/activity_register.xml" value="0.22056159420289856" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/category_items.xml" value="0.24895833333333334" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/fragment_cart.xml" value="0.2" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/fragment_check_out.xml" value="0.20521590423257802" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/fragment_click_on_category.xml" value="0.20521590423257802" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/fragment_details_card.xml" value="0.1936725096194955" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/fragment_forget__password.xml" value="0.22056159420289856" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/fragment_home.xml" value="0.22056159420289856" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/fragment_login.xml" value="0.22056159420289856" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/fragment_meal.xml" value="0.20521590423257802" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/fragment_payment.xml" value="0.2" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/fragment_register.xml" value="0.22056159420289856" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/fragment_splash.xml" value="0.25" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/item_meal.xml" value="0.25" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/items_meal.xml" value="0.24895833333333334" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/on_item_click.xml" value="0.264" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/layout/order_item.xml" value="0.17135086128739802" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1735" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1735" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/mipmap-anydpi-v26/littleLemon.xml" value="0.1735" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/mipmap-anydpi-v26/littleLemon_round.xml" value="0.1735" />
+        <entry key="..\:/android/projects_training/Little_Lemon/app/src/main/res/mipmap-anydpi-v26/little_lemon.xml" value="0.1735" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

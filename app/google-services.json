@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99062954018",
+    "project_id": "little-lemon-12c55",
+    "storage_bucket": "little-lemon-12c55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99062954018:android:04af6618cea7010400f27b",
+        "android_client_info": {
+          "package_name": "com.example.little_lemon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99062954018-10e9l2ni475ps6q8ms453ip7tclt52m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE8Gqw0JoiBpa1hXZTZ01MMLXlyXXu10E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99062954018-10e9l2ni475ps6q8ms453ip7tclt52m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
